@@ -1,0 +1,20 @@
+.ba{
+    background-color: #199fb1;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.os{
+    background-color: #333;
+    margin-bottom: 5px;
+    padding: 10px;
+    color: white;
+}
+
+.warning{
+    padding: 10px;
+    color: #a5d1e1;
+}
+.babo{
+    margin-bottom: 5px;
+}
