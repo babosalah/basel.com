@@ -40,31 +40,6 @@ $('#scroll-to-top').click(function(){
 
  });
 
-/*
-
-var  scrollbotton =("#scroll-to-top");
-$(window).scroll(function(){
-$(this).scrollTop()>=700 ? scrollbotton.show() : scrollbotton.hide();
-
-});
-scrollbotton.click(function(){
-    $("html,body").animate({scrollTop: 0},600)
-});
-/*
-//loading screen
-$(window).load(function(){
-    $("body").css("overflow","auto");
-
-    $(".loadin-overlay .loader").fadeOut(2000,
-        function(){
-            $(this).parent().fadeOut(2000,
-                function(){
-                    $(this).remove();
-
-                });
-        });
-});
-*/
 
 
 });
